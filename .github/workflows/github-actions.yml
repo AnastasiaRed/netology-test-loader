@@ -13,9 +13,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install and Build
+      - name: Install
         run: 
           npm ci
+          
+      - name: Build
+        run: 
           npm run build
 
       - name: Deploy to GH Page
