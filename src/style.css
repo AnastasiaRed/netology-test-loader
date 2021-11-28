@@ -1,0 +1,10 @@
+/* General */
+@import "normalize.css";
+@import "./styles/variables.css";
+@import "./styles/utills.css";
+@import "./styles/base.css";
+
+/* Components */
+@import "./styles/components/spinner.css";
+@import "./styles/components/nav-container.css";
+@import "./styles/components/nav-list.css";

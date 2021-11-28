@@ -1,0 +1,9 @@
+body {
+  font-family: Golos, Arial, sans-serif;
+}
+
+.container {
+  padding: 0 20px;
+  margin: 0 auto;
+  max-width: 400px;
+}
