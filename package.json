@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "Test app for Netology group",
   "main": "src/index.js",
-  "dependencies": {
-    "postcss-import": "^14.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.3",
@@ -27,6 +25,7 @@
     "mini-css-extract-plugin": "^2.4.5",
     "normalize.css": "^8.0.1",
     "postcss": "^8.4.4",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^6.2.1",
     "postcss-nested": "^5.0.6",
     "postcss-preset-env": "^7.0.1",
